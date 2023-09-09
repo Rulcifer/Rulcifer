@@ -1,5 +1,4 @@
-# Hey 👋 
-Welcome to my Airship
+# Hey 👋 Welcome to my Airship
 
 <!---
 Rulcifer/Rulcifer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
