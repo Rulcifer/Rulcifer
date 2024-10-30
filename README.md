@@ -2,9 +2,6 @@
 
 ![scythe spinning](https://github.com/Rulcifer/Rulcifer/assets/78013578/ae528360-17f6-4275-9bc6-40ac86adfc33)
 <div>Hello, I'm a Mars Developer</div>
- 
-![Visits](https://badges.pufler.dev/visits/Rulcifer/Rulcifer) ![Repos](https://badges.pufler.dev/repos/Rulcifer) ![Monthly Commits](https://badges.pufler.dev/commits/monthly/Rulcifer)
-
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
