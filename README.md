@@ -12,13 +12,14 @@
 
 ### Frameworks & Libraries
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-%23E23237?style=flat-square&logo=angular&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237B83B2?style=flat-square&logo=bootstrap&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
 ![Express.js](https://img.shields.io/badge/-Express.js-%23404d59?style=flat-square&logo=express&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/-Angular-%23E23237?style=flat-square&logo=angular&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-7289DA?style=flat-square&logo=discord&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237B83B2?style=flat-square&logo=bootstrap&logoColor=ffffff)
 
 ### Tools
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
