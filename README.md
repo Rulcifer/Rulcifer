@@ -4,7 +4,6 @@
 <div>Hello, I'm a Mars Developer</div>
  
  <img src="https://badges.pufler.dev/visits/Rulcifer/Rulcifer"/> 
- <img src="https://badges.pufler.dev/years/Rulcifer"/>
  <img src="https://badges.pufler.dev/repos/Rulcifer"/>
  <img src="https://badges.pufler.dev/commits/monthly/Rulcifer" />
 
