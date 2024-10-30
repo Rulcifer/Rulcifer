@@ -18,7 +18,6 @@
 ![Angular](https://img.shields.io/badge/-Angular-%23E23237?style=flat-square&logo=angular&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-7289DA?style=flat-square&logo=discord&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237B83B2?style=flat-square&logo=bootstrap&logoColor=ffffff)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
