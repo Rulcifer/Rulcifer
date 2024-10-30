@@ -33,8 +33,6 @@
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
-![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
 
 <!---Rulcifer/Rulcifer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
