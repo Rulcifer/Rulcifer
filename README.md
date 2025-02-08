@@ -25,11 +25,7 @@ const UserInformation = {
 
 <img src="https://komarev.com/ghpvc/?username=rulcifer&label=Profile%20views&color=0e75b6&style=flat" alt="hongducdev" /> 
 
-<div align=center>
-    <img
-        width="396"
-        src="https://github-readme-stats.vercel.app/api?username=rulcifer&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1"
-    />
+<div>
     <img
         width="396"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulcifer&show_icons=true&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1"
