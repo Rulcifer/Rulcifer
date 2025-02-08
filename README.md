@@ -1,6 +1,10 @@
 <h2 align="left">Hey, Welcome to my Airship 👋</h2>
 
-![scythe spinning](https://github.com/Rulcifer/Rulcifer/assets/78013578/ae528360-17f6-4275-9bc6-40ac86adfc33)
+<div align="center">
+<img src="https://github.com/Rulcifer/Rulcifer/assets/78013578/ae528360-17f6-4275-9bc6-40ac86adfc33" width="100%">
+    <br>
+</div>
+<!-- ![scythe spinning](https://github.com/Rulcifer/Rulcifer/assets/78013578/ae528360-17f6-4275-9bc6-40ac86adfc33) -->
 <div>Hello, I'm a Mars Developer</div>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
