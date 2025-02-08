@@ -7,7 +7,7 @@
 <!-- ![scythe spinning](https://github.com/Rulcifer/Rulcifer/assets/78013578/ae528360-17f6-4275-9bc6-40ac86adfc33) -->
 <div>Hello, I'm a Mars Developer</div>
 
-<h1 align="center">📝 About me:</h1>
+## About Me
 
 ```py
 const UserInformation = {
@@ -17,9 +17,9 @@ const UserInformation = {
         frontend: ["react-native","reactjs", "nextjs", "wordpress"],
         backend: ["nodejs", "express"],
         database: ["mongo","mysql"],
-        others: ["Photoshop", "Illustraion", "Figma"]
+        others: ["Photoshop", "CapcCut", "Figma"]
     },
-    interests: ["music"]
+    interests: ["game and music"]
 }
 ```
 
