@@ -7,6 +7,22 @@
 <!-- ![scythe spinning](https://github.com/Rulcifer/Rulcifer/assets/78013578/ae528360-17f6-4275-9bc6-40ac86adfc33) -->
 <div>Hello, I'm a Mars Developer</div>
 
+<h1 align="center">📝 About me:</h1>
+
+```py
+const UserInformation = {
+ pronouns: "He" | "Him",
+    askMeAbout: ["web developer"],
+    technologies:{
+        frontend: ["react-native","reactjs", "nextjs", "wordpress"],
+        backend: ["nodejs", "express"],
+        database: ["mongo","mysql"],
+        others: ["Photoshop", "Illustraion", "Figma"]
+    },
+    interests: ["music"]
+}
+```
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
