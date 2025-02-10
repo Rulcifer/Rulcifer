@@ -5,7 +5,7 @@
     <br>
 </div>
 <!-- ![scythe spinning](https://github.com/Rulcifer/Rulcifer/assets/78013578/ae528360-17f6-4275-9bc6-40ac86adfc33) -->
-<div>Hello, I'm a Mars Developer</div>
+<div>Hello! I'm a passionate Software Developer who thrives on building impactful solutions, creating innovative experiences, and contributing to the tech community. I love turning ideas into reality through clean, efficient code and constantly exploring new technologies to push the boundaries of what's possible.</div>
 
 ## About Me
 
