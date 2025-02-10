@@ -24,7 +24,7 @@ const UserInformation = {
 ```
 
 <img src="https://komarev.com/ghpvc/?username=rulcifer&label=Profile%20views&color=0e75b6&style=flat" alt="hongducdev" /> 
-
+<!---
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -54,7 +54,7 @@ const UserInformation = {
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-
+--->
 
 <!---Rulcifer/Rulcifer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
