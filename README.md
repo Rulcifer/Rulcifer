@@ -25,13 +25,6 @@ const UserInformation = {
 
 <img src="https://komarev.com/ghpvc/?username=rulcifer&label=Profile%20views&color=0e75b6&style=flat" alt="hongducdev" /> 
 
-    <div>
-        <img
-            width="396"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulcifer&show_icons=true&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1"
-        />
-    </div>
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
