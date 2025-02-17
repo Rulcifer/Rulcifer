@@ -1,7 +1,8 @@
 <h2 align="left">Hey, Welcome to my Airship 👋</h2>
 
 <div align="center">
-<img src="https://github.com/Rulcifer/Rulcifer/assets/78013578/ae528360-17f6-4275-9bc6-40ac86adfc33" width="100%" height="190">
+<!-- <img src="https://github.com/Rulcifer/Rulcifer/assets/78013578/ae528360-17f6-4275-9bc6-40ac86adfc33" width="100%" height="190"> -->
+    !(assets/gambar.png)
     <br>
 </div>
 <!-- ![scythe spinning](https://github.com/Rulcifer/Rulcifer/assets/78013578/ae528360-17f6-4275-9bc6-40ac86adfc33) -->
