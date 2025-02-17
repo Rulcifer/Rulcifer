@@ -2,7 +2,7 @@
 
 <div align="center">
 <!-- <img src="https://github.com/Rulcifer/Rulcifer/assets/78013578/ae528360-17f6-4275-9bc6-40ac86adfc33" width="100%" height="190"> -->
-    !(assets/gambar.png)
+    <img src="https://github.com/Rulcifer/Rulcifer/assets/unicat" width="100%" height="190">
     <br>
 </div>
 <!-- ![scythe spinning](https://github.com/Rulcifer/Rulcifer/assets/78013578/ae528360-17f6-4275-9bc6-40ac86adfc33) -->
