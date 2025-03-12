@@ -16,7 +16,7 @@ const UserInformation = {
     askMeAbout: ["software engineer"],
     technologies:{
         frontend: ["react-native","reactjs", "nextjs", "wordpress"],
-        backend: ["nodejs", "nestjs", "express"],
+        backend: ["nodejs", "nestjs", "express", "laravel"],
         database: ["mongo","mysql"],
         others: ["Photoshop", "CapcCut", "Figma"]
     },
