@@ -15,10 +15,11 @@ const UserInformation = {
  pronouns: "He" | "Him",
     askMeAbout: ["software engineer"],
     technologies:{
-        frontend: ["react-native","reactjs", "nextjs", "wordpress"],
-        backend: ["nodejs", "nestjs", "express", "laravel"],
+        frontend: ["react-native","reactjs", "nextjs", "tailwindcss", "jquery" "wordpress"],
+        backend: ["nodejs", "nestjs", "expressjs", "laravel", "filament", "discordjs"],
         database: ["mongo","mysql"],
-        others: ["Photoshop", "CapcCut", "Figma"]
+        database ORM: ["squelize","prisma"],
+        others: ["Photoshop", "Adobe XD", "CapcCut", "Figma"]
     },
     interests: ["game and music"]
 }
