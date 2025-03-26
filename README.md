@@ -18,7 +18,7 @@ const UserInformation = {
         frontend: ["react-native","reactjs", "nextjs", "tailwindcss", "jquery" "wordpress"],
         backend: ["nodejs", "nestjs", "expressjs", "laravel", "filament", "discordjs"],
         database: ["mongo","mysql"],
-        database ORM: ["squelize","prisma"],
+        databaseORM: ["squelize","prisma"],
         others: ["Photoshop", "Adobe XD", "CapcCut", "Figma"]
     },
     interests: ["game and music"]
